@@ -27,7 +27,13 @@
 .header-list a{
     color: black;
 }
-.contents a{
+.contents {
     font-family: serif;
     font-size: 25px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.contents-icon {
+    position: relative;
 }
