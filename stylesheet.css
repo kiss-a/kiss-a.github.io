@@ -3,7 +3,7 @@
     background-color: rgb(237, 241, 241);
 }
 .main {
-    height: 500px;
+    height: 800px;
     background-color: rgb(124, 209, 198);
 }
 .footer {
@@ -14,7 +14,7 @@
 .header-logo {
     float: left;
     font-size: 40px;
-    font-family: MS PMincho;
+    font-family: serif;
     color: black;
 }
 .header-list li{
@@ -26,4 +26,8 @@
 }
 .header-list a{
     color: black;
+}
+.contents a{
+    font-family: serif;
+    font-size: 25px;
 }
